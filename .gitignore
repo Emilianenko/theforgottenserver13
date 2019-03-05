@@ -172,6 +172,5 @@ pip-log.txt
 .*.swo
 
 *.dll
-config.lua
 theforgottenserver.exe
 vc14/theforgottenserver.VC.db
